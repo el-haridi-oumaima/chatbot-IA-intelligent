@@ -1,0 +1,144 @@
+{
+   "intents":[
+      {
+         "tag": "greeting",
+         "patterns": [
+            "Hi",
+            "Hello",
+            "Hey",
+            "Good morning",
+            "Good afternoon",
+            "What's up?",
+            "Hi there"
+         ],
+         "responses": [
+            "Hello! How can I assist you with artificial intelligence today?",
+            "Hi! Feel free to ask me anything about AI.",
+            "Hey there! What would you like to know about AI?"
+         ]
+      },
+      {
+         "tag": "definition_ai",
+         "patterns": [
+            "What is artificial intelligence?",
+            "Define AI",
+            "What does AI mean?",
+            "Explain artificial intelligence",
+            "What is AI?",
+            "Meaning of AI"
+         ],
+         "responses": [
+            "Artificial Intelligence (AI) is a branch of computer science focused on creating systems that can perform tasks requiring human intelligence, such as understanding language, recognizing images, and making decisions."
+         ]
+      },
+      {
+         "tag": "types_ai",
+         "patterns": [
+            "What are the types of AI?",
+            "How many types of AI are there?",
+            "Categories of AI",
+            "What is weak AI and strong AI?",
+            "What are the levels of AI?",
+            "Difference between weak and strong AI?"
+         ],
+         "responses": [
+            "There are three main types of AI:\n\n1. *Weak AI: Designed to perform specific tasks (e.g., virtual assistants).\n2. **General AI: Capable of performing any intellectual task that humans can do.\n3. **Super AI*: A hypothetical AI surpassing human intelligence."
+         ]
+      },
+      {
+         "tag": "applications_ai",
+         "patterns": [
+            "What are the applications of AI?",
+            "How is AI used?",
+            "Where is AI applied?",
+            "Examples of AI in real life",
+            "Practical uses of AI",
+            "AI applications"
+         ],
+         "responses": [
+            "AI is used in many fields such as:\n\n- Virtual assistants (Alexa, Siri, etc.)\n- Facial recognition\n- Autonomous vehicles\n- Healthcare (medical diagnostics)\n- Data analysis\n- Personalized recommendations (Netflix, Amazon)\n- Chatbots for customer support"
+         ]
+      },
+      {
+         "tag": "machine_learning",
+         "patterns": [
+            "What is Machine Learning?",
+            "Define Machine Learning",
+            "Difference between AI and Machine Learning?",
+            "Explain Machine Learning",
+            "What does Machine Learning mean?"
+         ],
+         "responses": [
+            "Machine Learning is a subset of AI that enables systems to learn from data and improve over time without being explicitly programmed. It uses algorithms to identify patterns in data and make decisions."
+         ]
+      },
+      {
+         "tag": "deep_learning",
+         "patterns": [
+            "What is Deep Learning?",
+            "Define Deep Learning",
+            "Difference between Machine Learning and Deep Learning",
+            "What are neural networks?",
+            "Explain Deep Learning"
+         ],
+         "responses": [
+            "Deep Learning is a subset of Machine Learning that uses neural networks inspired by the human brain. It is effective for complex tasks like image recognition, natural language processing, and autonomous driving."
+         ]
+      },
+      {
+         "tag": "nlp",
+         "patterns": [
+            "What is NLP?",
+            "Explain Natural Language Processing",
+            "What does NLP mean?",
+            "Examples of NLP",
+            "Uses of Natural Language Processing"
+         ],
+         "responses": [
+            "Natural Language Processing (NLP) is a field of AI that allows machines to understand, interpret, and generate human language. Examples include machine translation, chatbots, sentiment analysis, and virtual assistants like Siri."
+         ]
+      },
+      {
+         "tag": "companies_ai",
+         "patterns": [
+            "Which companies are working on AI?",
+            "Top companies in AI",
+            "Who are the leaders in AI?",
+            "Tech companies using AI",
+            "AI industry leaders"
+         ],
+         "responses": [
+            "Leading companies in AI include Google (DeepMind), Microsoft, OpenAI, IBM, Amazon, Meta (Facebook AI), Tesla, and Baidu."
+         ]
+      },
+      {
+         "tag": "future_ai",
+         "patterns": [
+            "What is the future of AI?",
+            "Will AI replace humans?",
+            "What does the future hold for AI?",
+            "Is AI dangerous?",
+            "Will AI evolve further?"
+         ],
+         "responses": [
+            "The future of AI looks promising, with advancements in healthcare, industry, and education. However, it’s crucial to regulate its development to address ethical and economic concerns, such as job replacement."
+         ]
+      },
+      {
+         "tag": "goodbye",
+         "patterns": [
+            "Goodbye",
+            "Bye",
+            "See you later",
+            "I have to go",
+            "Thanks, bye",
+            "Catch you later"
+         ],
+         "responses": [
+            "Goodbye! Feel free to come back if you have more questions about AI.",
+            "See you later! Keep exploring the world of AI!",
+            "Bye! Have a great day!"
+         ]
+      }
+   ]
+}
